@@ -23,8 +23,6 @@ Prerequisites
 
    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Test line
-
 ### 1. Add the GreenBoost flake input
 
 GreenBoost simple test line
