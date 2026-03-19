@@ -1,10 +1,15 @@
 GreenBoost for NixOS
 ====================
 
+Check out the [upstream repo for nvidia\_greenboost]
+
 NixOS flake packaging for **GreenBoost** — a 3-tier GPU memory extension (VRAM
-+ DDR4 + NVMe) that enables running large Large Language Models (LLMs) on
-consumer NVIDIA GPUs. GreenBoost leverages NVMe as virtual VRAM, extending
-memory transparently for LLM workloads on systems with limited VRAM.
+
+ -  DDR4 + NVMe) that enables running large Large Language Models (LLMs) on
+    consumer NVIDIA GPUs. GreenBoost leverages NVMe as virtual VRAM, extending
+    memory transparently for LLM workloads on systems with limited VRAM.
+
+[upstream repo for nvidia\_greenboost]: https://gitlab.com/IsolatedOctopi/nvidia_greenboost
 
 
 Prerequisites
