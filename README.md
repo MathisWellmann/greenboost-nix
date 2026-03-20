@@ -28,7 +28,7 @@ Prerequisites
 GreenBoost simple test line
 
 ~~~~ nix
-inputs.greenboost.url = "github:you/greenboost-nix";
+inputs.greenboost.url = "github:MathisWellmann/greenboost-nix";
 
 outputs = { self, nixpkgs, greenboost, ... }@inputs:
   let
